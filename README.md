@@ -14,11 +14,22 @@ User Registration: New users can be registered through the system, allowing them
 
 Course Creation: Teachers and Admins can create new courses by providing titles and other relevant details.
 Enrollment: Students can enrol in available courses, while Teachers can manage course enrollments.
-Content Management: Teachers can add content to their courses, such as lecture notes, assignments, and other materials. However, access is restricted based on roles, ensuring unauthorized users (e.g., students) cannot modify course content.
 
 ![image](https://github.com/user-attachments/assets/b9b1c058-415e-4357-b755-727a373e1910)
 
 ![image](https://github.com/user-attachments/assets/5f9514d3-9174-4ecd-9e13-ced31fe4b75b)
+
+Content Management: Teachers can add content to their courses, such as lecture notes, assignments, and other materials. However, access is restricted based on roles, ensuring unauthorized users (e.g., students) cannot modify course content.
+
+![Screenshot 2024-08-04 193509](https://github.com/user-attachments/assets/45e49c1b-6260-41cc-b70b-90ae23d342d8)
+
+
+## Communication:
+
+Messaging System: The application includes a messaging system where students and teachers can communicate directly. This feature facilitates discussion, queries, and feedback, enhancing the learning experience.
+Message Reading: Users can read incoming messages, keeping them informed and engaged with course activities.
+
+![Screenshot 2024-08-04 193648](https://github.com/user-attachments/assets/cd022e77-6111-471f-a7e0-b2dd7503d287)
 
 
 ## Security and Access Control:
